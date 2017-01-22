@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "angular": "1.4.0",
-    "angular-animate": "1.4.0",
+    "angular-animate": "^1.6.1",
     "angular-route": "1.4.0",
     "angular-sanitize": "1.4.0",
     "moment": "2.13.0",
@@ -19,6 +19,7 @@
   "moduleName": "clientApp",
   "resolutions": {
     "angular": "1.4.0",
-    "moment": "2.13.0"
+    "moment": "2.13.0",
+    "angular-animate": "1.4.0"
   }
 }
